@@ -1,4 +1,4 @@
-function(e) {
+!function(e) {
     function t(e) {
         if(e.length > 0) {
             var t = document.querySelector(e);
